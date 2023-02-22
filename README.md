@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HeavenEvolved
-- 👀 I’m interested in Machine Learning Algorithms, Computer Vision, Neural Networks and Natural Language Processing
-- 🌱 I’m currently learning Neural Networks, TensorFlow and PyTorch
-- 📫 Feel free to contact me through Discord at Indie#0969!
+# About Me
+
+Hi! I am @HeavenEvolved. You can call me either Indie or Evo depending on whatever you prefer. I am a March 2022 Computer Science graduate and I am currently working as a ✨ Software Development Engineer - Machine Learning ✨.
 
 <!---
 HeavenEvolved/HeavenEvolved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
