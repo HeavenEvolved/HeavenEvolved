@@ -8,9 +8,4 @@ I am currently learning PyTorch and Transformers and working on refining my skil
 
 # Contact Me
 
-If you would like to talk about anything, then hit me up on my Discord at Indie#0969!Have fun and Stay safe! 😄
-
-<!---
-HeavenEvolved/HeavenEvolved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you would like to talk about anything, then hit me up on my Discord at Indie#0969! Have fun and Stay safe! 😄
